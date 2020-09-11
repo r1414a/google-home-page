@@ -20,7 +20,7 @@ body{
 				margin:20px auto 0px auto;}
 		#searchbox{
 				background-size:20px 25px;
-				background-image: url(../images/searchicon.png);
+				background-image: url(../searchicon.png);
 				background-repeat: no-repeat;
 				background-position:20px center;}
 		#searchbox:hover{
