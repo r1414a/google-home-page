@@ -1,0 +1,114 @@
+body{
+			overflow:hidden;
+			text-align:center;}
+
+		.titleimage{	
+				border-radius:20px;}
+				
+		#googlebiglogo{
+				margin: 170px 300px 0px auto;	
+				text-align:center;}
+		#searchbox{
+				font-size:15px;
+				border-radius:20px;
+				height:40px;
+				width:580px;
+				border-top:2px solid rgb(235,235,235);
+				border-left:2px solid rgb(235,235,235);
+				padding:10px;
+				text-align:center;
+				margin:20px auto 0px auto;}
+		#searchbox{
+				background-size:20px 25px;
+				background-image: url(../images/searchicon.png);
+				background-repeat: no-repeat;
+				background-position:20px center;}
+		#searchbox:hover{
+				box-shadow:0 0 7px rgb(200,200,200);}
+		#firstbutton{
+				width="190px";
+				font-size:15px;
+				color:rgb(111,111,111);
+				border-bottom:2px solid rgb(235,235,235);
+				border-right:2px solid rgb(235,235,235);
+				text-align:center;
+				border-radius:5px;
+				padding:10px;
+				margin:20px auto 10px auto;}
+		#firstbutton:hover{
+					cursor:pointer;
+					color:black;
+					box-shadow:0 0 2px rgb(200,200,200);
+					border:1px solid rgb(200,200,200);}
+		#secondbutton:hover{	
+					cursor:pointer;
+					color:black;
+					box-shadow:0 0 2px rgb(200,200,200);
+					border:1px solid rgb(200,200,200);}
+		#secondbutton{
+				width="190px";
+				font-size:15px;
+				color:rgb(111,111,111);
+				border-bottom:2px solid rgb(235,235,235);
+				border-right:2px solid rgb(235,235,235);
+				text-align:center;
+				border-radius:5px;
+				padding:10px;
+				margin:20px auto 10px 20px;}
+		a{
+			text-decoration:none;}
+		li{		
+			margin-left:10px;
+			display:inline;}
+		li:hover{
+				cursor:pointer;
+				color:blue;
+				text-decoration:underline;}
+		#firstrow{
+				height:35px;
+				color:rgb(111,111,111);
+				background-color:rgb(245,245,245);
+				text-align:left;
+				border-top:1px solid rgb(211,211,211);
+				border-bottom:1px solid rgb(235,235,235);
+				padding-top:9px;
+				padding-left:50px; 
+				margin:144px 0px 0px 0px;}
+		#bottomlinks{
+			color:rgb(111,111,111);}
+		#bottomlinks:hover{
+					cursor:pointer;
+				text-decoration:underline;}
+		#secondrow{
+				height:35px;
+				color:rgb(111,111,111);
+				background-color:rgb(245,245,245);
+				text-align:left;
+				border-top:1px solid rgb(211,211,211);
+				border-bottom:1px solid rgb(211,211,211);
+				padding-top:9px;}	 
+		ul{
+			display:inline;}
+		ul#space{
+			margin-left:870px;}
+		#top{
+			padding-bottom:5px;
+			position:relative;
+			bottom:220px;
+			left:895px;}
+		.toplinks{
+				padding-bottom:5px;
+				color:rgb(111,111,111);}
+		.toplinks:hover{
+					cursor:pointer;
+					text-decoration:underline;}
+		.apps{
+			width:25px;
+			height:25px;}
+		.apps:hover{
+				box-shadow:0 0 3px black;}
+	
+		.account{
+				border:1px solid black;
+				border-radius:30px;}
+	
